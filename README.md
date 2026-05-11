@@ -26,7 +26,7 @@ Projet-Graphes-OpenData/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/VOTRE_NOM/projet-graphes-opendata.git
+git clone https://github.com/yasminehdg/projet-graphes-metro-idf.git
 cd projet-graphes-opendata
 ```
 
